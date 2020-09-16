@@ -16,5 +16,11 @@ Here are some ideas to get you started:
 --> 
 I like this.
 
+Base site
 https://jolarte-fs.github.io/?utm_source=source_one_local&utm_medium=testing_cpc&utm_campaign=LocalMachineCampaign 
 just for fun.
+
+Corrected site
+https://jolarte-fs.github.io/chURL/?utm_source=source_one_local&utm_medium=testing_cpc&utm_campaign=LocalMachineCampaign 
+just for fun.
+
