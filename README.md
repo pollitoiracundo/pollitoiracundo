@@ -14,13 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-I like this.
-
-https://jolarte-fs.github.io/?utm_source=source_one_local&utm_medium=testing_cpc&utm_campaign=LocalMachineCampaign 
-just for fun.
-
-TRY 2
-https://jolarte-fs.github.io/chURL/?utm_source=source_one_local&utm_medium=testing_cpc&utm_campaign=LocalMachineCampaign 
-just for fun.
+No comments for now.
 
 
